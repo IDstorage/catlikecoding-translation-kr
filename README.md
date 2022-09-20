@@ -9,9 +9,14 @@ CC BY-NC-SA 4.0 라이선스를 준수하며 단순 영어/Unity 공부용 번�
 
 <br>
 
+> 작성 컨벤션에 대해서는 [CONVENTION.md]() 파일을 참고해주세요.
+
+<br>
+
 ### 💬 Now translating...
 
 - Basics
+  - Game Objects and Scripts
 
 <br>
 
