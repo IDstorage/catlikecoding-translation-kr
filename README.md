@@ -16,7 +16,7 @@ CC BY-NC-SA 4.0 라이선스를 준수하며 단순 영어/Unity 공부용 번�
 ### 💬 Now translating...
 
 - Mesh Basics
-  - Procedural Grid
+  - Rounded Cube
 
 <br>
 
@@ -41,3 +41,5 @@ CC BY-NC-SA 4.0 라이선스를 준수하며 단순 영어/Unity 공부용 번�
 
 - Basics
   - Game Objects and Scripts
+- Mesh Basics
+  - Procedural Grid
