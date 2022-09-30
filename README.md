@@ -22,7 +22,6 @@ CC BY-NC-SA 4.0 라이선스를 준수하며 단순 영어/Unity 공부용 번�
 
 ### 📋 TODO (priority)
 
-- Mesh Basics
 - Pseudorandom Noise
 - Pseudorandom Surfaces
 - Movement
